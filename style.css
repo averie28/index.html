@@ -1,8 +1,9 @@
 body {
     margin: 0;
     font-family: 'Architects Daughter', cursive;
-    background: #f4f4f4;
+    background: url('https://img.magnific.com/free-vector/sky-background-video-conferencing_23-2148639325.jpg?semt=ais_hybrid&w=740&q=80') center/cover no-repeat;
     text-align: center;
+    min-height: 100vh;
 }
 
 nav {
