@@ -28,29 +28,36 @@ nav a {
     text-decoration: none;
     font-weight: bold;
     border-radius: 6px;
+    transition: transform 0.2s ease, box-shadow 0.2s ease, filter 0.2s ease;
+}
+
+nav a:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+    filter: brightness(1.1);
 }
 
 nav li:nth-child(1) a {
-    background: #e74c3c;
+    background: linear-gradient(135deg, #ff6b6b, #ff3d3d);
 }
 
 nav li:nth-child(2) a {
-    background: #e67e22;
+    background: linear-gradient(135deg, #ffa94d, #ff7f50);
 }
 
 nav li:nth-child(3) a {
-    background: #f1c40f;
+    background: linear-gradient(135deg, #ffe066, #f9c74f);
     color: #222;
 }
 
 nav li:nth-child(4) a {
-    background: #2ecc71;
+    background: linear-gradient(135deg, #8ce99a, #2ecc71);
 }
 
 nav li:nth-child(5) a {
-    background: #3498db;
+    background: linear-gradient(135deg, #74c0fc, #3498db);
 }
 
 nav li:nth-child(6) a {
-    background: #9b59b6;
+    background: linear-gradient(135deg, #d0bfff, #9b59b6);
 }
