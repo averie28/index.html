@@ -6,7 +6,7 @@ body {
 
 nav {
     padding: 20px;
-    background: #222;
+    background: transparent;
 }
 
 nav ul {
@@ -27,7 +27,8 @@ nav a {
     color: white;
     text-decoration: none;
     font-weight: bold;
-    border-radius: 6px;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
     transition: transform 0.2s ease, box-shadow 0.2s ease, filter 0.2s ease;
 }
 
@@ -38,26 +39,26 @@ nav a:hover {
 }
 
 nav li:nth-child(1) a {
-    background: linear-gradient(135deg, #ff6b6b, #ff3d3d);
+    background: linear-gradient(135deg, #ff4d4d, #ff1f1f);
 }
 
 nav li:nth-child(2) a {
-    background: linear-gradient(135deg, #ffa94d, #ff7f50);
+    background: linear-gradient(135deg, #ff9f43, #ff6b35);
 }
 
 nav li:nth-child(3) a {
-    background: linear-gradient(135deg, #ffe066, #f9c74f);
+    background: linear-gradient(135deg, #ffe066, #ffc107);
     color: #222;
 }
 
 nav li:nth-child(4) a {
-    background: linear-gradient(135deg, #8ce99a, #2ecc71);
+    background: linear-gradient(135deg, #4cd964, #1abc9c);
 }
 
 nav li:nth-child(5) a {
-    background: linear-gradient(135deg, #74c0fc, #3498db);
+    background: linear-gradient(135deg, #4da3ff, #007bff);
 }
 
 nav li:nth-child(6) a {
-    background: linear-gradient(135deg, #d0bfff, #9b59b6);
+    background: linear-gradient(135deg, #c77dff, #8e44ad);
 }
