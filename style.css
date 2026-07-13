@@ -44,26 +44,26 @@ nav li:nth-child(1) a {
 }
 
 nav li:nth-child(2) a {
-    background: linear-gradient(135deg, #ff6b6b, #ff3d3d);
+    background: linear-gradient(135deg, #f8b3b3, #f28c8c);
 }
 
 nav li:nth-child(3) a {
-    background: linear-gradient(135deg, #ffa94d, #ff7f50);
+    background: linear-gradient(135deg, #f8d5b3, #f2b36e);
 }
 
 nav li:nth-child(4) a {
-    background: linear-gradient(135deg, #ffe066, #f9c74f);
-    color: #222;
+    background: linear-gradient(135deg, #f8f0b3, #f0dd86);
+    color: #555;
 }
 
 nav li:nth-child(5) a {
-    background: linear-gradient(135deg, #8ce99a, #2ecc71);
+    background: linear-gradient(135deg, #bfe8c8, #8ed6a0);
 }
 
 nav li:nth-child(6) a {
-    background: linear-gradient(135deg, #74c0fc, #3498db);
+    background: linear-gradient(135deg, #b7dfff, #8ec5f7);
 }
 
 nav li:nth-child(7) a {
-    background: linear-gradient(135deg, #d0bfff, #9b59b6);
+    background: linear-gradient(135deg, #e8d7f8, #caa7ea);
 }
