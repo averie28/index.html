@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    font-family: Arial, sans-serif;
+    font-family: 'Architects Daughter', cursive;
     background: #f4f4f4;
 }
 
@@ -26,6 +26,7 @@ nav a {
     padding: 12px 16px;
     color: white;
     text-decoration: none;
+    font-family: 'Architects Daughter', cursive;
     font-weight: bold;
     border-radius: 8px;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
