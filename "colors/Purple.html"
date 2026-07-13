@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <link rel="stylesheet" href="../style.css">
+        <title>Purple Page</title>
+    </head>
+    <body>
+        <nav>
+            <ul>
+                <li><a href="../index.html">Home</a></li>
+                <li><a href="red.html">Red</a></li>
+                <li><a href="orange.html">Orange</a></li>
+                <li><a href="yellow.html">Yellow</a></li>
+                <li><a href="Green.html">Green</a></li>
+                <li><a href="Blue.html">Blue</a></li>
+                <li><a href="Purple.html">Purple</a></li>
+            </ul>
+        </nav>
+        <main>
+            <h1>Purple</h1>
+            <p>This page shows the purple color theme.</p>
+        </main>
+    </body>
+</html>
